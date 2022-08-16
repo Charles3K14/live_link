@@ -1,2 +1,2 @@
 # live_link
-[Team_24_live_link](http://Walletfriendly.herokuapp.com)
+[Team_24_live_link](https://wallet-fiendly.herokuapp.com)
